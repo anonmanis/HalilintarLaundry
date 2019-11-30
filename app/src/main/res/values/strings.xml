@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Halilintar Laundry</string>
+    <string-array name="jenis">
+        <item>Baju (5000/KG)</item>
+        <item>Selimut (6000/KG)</item>
+        <item>Jaket (7000/KG)</item>
+        <item>Handuk (6000/kg)</item>
+    </string-array>
+</resources>
